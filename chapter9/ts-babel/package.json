@@ -1,0 +1,20 @@
+{
+    "name": "ts-babel",
+    "version": "1.0.0",
+    "scripts": {
+        "type-check": "tsc --noEmit",
+        "build:js": "babel src --out-dir lib --extensions \".ts,.tsx\" --source-maps inline"
+    },
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/cli": "^7.10.4",
+        "@babel/core": "^7.10.4",
+        "@babel/preset-env": "^7.10.4",
+        "@babel/preset-typescript": "^7.10.4",
+        "typescript": "^3.8.2"
+    }
+}

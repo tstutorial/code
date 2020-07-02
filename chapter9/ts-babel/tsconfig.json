@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "moduleResolution": "node",
+        "declaration": true,
+        "outDir": "lib",
+        "strict": true,
+        "isolatedModules": true
+    }
+}
