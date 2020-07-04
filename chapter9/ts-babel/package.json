@@ -4,7 +4,7 @@
     "license": "MIT",
     "scripts": {
         "type-check": "tsc --noEmit",
-        "build:js": "babel src --out-dir lib --extensions \".ts,.tsx\" --source-maps inline"
+        "build": "babel src --out-dir lib --extensions \".ts,.tsx\" --source-maps inline"
     },
     "devDependencies": {
         "@babel/cli": "^7.8.4",
