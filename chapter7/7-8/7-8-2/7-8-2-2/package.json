@@ -1,0 +1,7 @@
+{
+  "name": "7-8-2-2",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/jquery": "^3.5.0"
+  }
+}

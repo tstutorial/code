@@ -1,0 +1,1 @@
+globalThis.mode = 'dev';

@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ESNext",
+        "outFile": "main.js"
+    },
+    "files": ["b.ts"]
+}
